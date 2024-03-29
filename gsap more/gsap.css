@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:content-box;
+}
+html,body{
+    height:100%;
+    width:100%;
+}
+body{
+    overflow-x: hidden;
+}
+.page-1{
+    height:100%;
+    width:100%;
+    background-color:rebeccapurple;
+}
+.page-2{
+    height:100%;
+    width:100%;
+    background-color:limegree;
+}
+.page-3{
+    height:100%;
+    width:100%;
+    background-color:yellow;
+}
+.page-2 h2{
+    font-size:18vw;
+    font-weight:500px;
+    margin-left:20px;
+}

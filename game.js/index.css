@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:content-box;
+}
+html,body{
+    height:100%;
+    width:100%;
+}
+
+#center{
+    margin:280px;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+
+}
+
+#one{
+    align-items: center;
+    padding:10px;
+    margin:10px;
+}
+
+#two{
+    align-items:center;
+    justify-content: center;
+    margin:10px;
+    padding:10px;
+}
+
+button{
+    margin-left:120px;
+    padding:10px;
+    border:black solid;
+    border-radius:20px;
+    padding-left:30px;
+    padding-right:30px;
+}
